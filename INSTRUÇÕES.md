@@ -40,9 +40,19 @@ Equipe Agape: Ana Alice, Kayron, Lázaro.
 <br>
 <table>
   <tr>
+    <th>Número</th>
     <th> Atividade </th>
     <th> Entrega até</th>
     <th> Responsáveis</th>
     <th> Forma de Entrega</th>
+  </tr>
+  <tr>
+    <td> 1 </td>
+    <td> Elaborar um nome pro evento, 
+    uma logomarca e uma cara para o site 
+    da oficina. </td>
+    <td> 08 de agosto </td>
+    <td>Líderes da Turma</td>
+    <td> Entregar arquivos via e-mail ou github</td>
   </tr>
 </table>
