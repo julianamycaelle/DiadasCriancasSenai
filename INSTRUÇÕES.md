@@ -8,7 +8,7 @@ nesta atividade, você e sua turma será convidados a elaborarem juntos a
 1º Oficina de Programação para Crianças do SENAI CEPT BALSAS!
 <hr>
 <br>
-Organização das equipes:
+<h2>Organização das equipes:</h2>
 
 <ul>
   <li>
