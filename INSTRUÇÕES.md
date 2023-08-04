@@ -38,3 +38,11 @@ Equipe Agape: Ana Alice, Kayron, Lázaro.
 <br>
 <h2>Passo a Passo:</h2>
 <br>
+<table>
+  <tr>
+    <th> Atividade </th>
+    <th> Entrega até</th>
+    <th> Responsáveis</th>
+    <th> Forma de Entrega</th>
+  </tr>
+</table>
