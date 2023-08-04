@@ -31,15 +31,15 @@ Lideres da turma: Pedro, Erick e Kelry.
   </li>
 
   <li>
-Equipe Alfa: Wichellen, Yasmin, Raira.
+Equipe Alfa: Withyellen, Yasmin, Raira.
 </li>
 
 <li>
-Equipe Beta: Bruno Melo, Gustavo e Anthony. 
+Equipe Beta: Bruno Melo, Gustavo e Antony. 
 </li>
 
 <li>
-Equipe Gama: Maria Eduarda, Bruno Sousa, Kenia. 
+Equipe Gama: Maria Eduarda, Bruno Sousa, Kenya. 
 </li>
 
 <li>
