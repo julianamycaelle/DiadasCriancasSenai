@@ -127,11 +127,9 @@ Equipe Agape: Ana Alice, Kayron, Lázaro.
   </tr>
   <tr>
     <td>8</td>
-    <tr> 
       <td>Elaborar cronograma de execução das tarefas necessárias (vocês terão todas as sextas-feiras até o dia da oficina para elaborar tarefas associadas a ela) Nos segundos-horários. Se organizarem de acordo com os tópicos de cada equipe.</td>
     <td> 08 de agosto></td>
     <td> Cada equipe elaborar seu cronograma</td>
     <td>Entregar para os líderes que devem anexar no github (no arquivo read-me) do repositório da oficina</td></tr>
-    
   </tr>
 </table>
