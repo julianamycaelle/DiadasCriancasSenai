@@ -109,6 +109,7 @@ Equipe Agape: Ana Alice, Kayron, Lázaro.
     </td>
     <td> 08 de agosto</td>
     <td>Lideres da turma</td>
+    <td> Criar um repositório no GitHUB com o nome da oficina/Senai de um dos líderes (informar para o professor e para a turma, o líder que irá produzir o repositório) e postar lá o site elaborado. </td>
   </tr>
   <tr>
     <td> 6 </td>
