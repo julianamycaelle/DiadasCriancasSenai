@@ -94,6 +94,6 @@ Equipe Agape: Ana Alice, Kayron, Lázaro.
       <b>Obs: Utilizar somente HTML e CSS e desenvolve o front end nessa etapa.</b>
     </td>
     <td> 08 de agosto</td>
-    <td></td>
+    <td>Lideres da turma</td>
   </tr>
 </table>
