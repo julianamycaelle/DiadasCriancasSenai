@@ -5,7 +5,7 @@ Olá,<br>
 nesta atividade, você e sua turma será convidados a elaborarem juntos a 
 <br>
 <hr>
-1º Oficina de Programação para Crianças do SENAI CEPT BALSAS!
+<h1>1º Oficina de Programação para Crianças do SENAI CEPT BALSAS!</h1>
 <hr>
 <br>
 
