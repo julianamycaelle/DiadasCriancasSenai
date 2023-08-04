@@ -9,6 +9,19 @@ nesta atividade, você e sua turma será convidados a elaborarem juntos a
 <h1>1º Oficina de Programação para Crianças do SENAI CEPT BALSAS!</h1>
 
 <br>
+Será realizada no dia 11/10 de 2023 no SENAI CEPT BALSAS e <br>
+<b>VOCÊS Serão os responsáveis pela oficina! Mostrem todo o seu amor e encanto pela informática!</b><br> 
+Na oficina vocês poderão: <br>
+Ensinar sobre programação de forma lúdica para as crianças; <br>
+Aplicar gincanas (competições) e brincadeiras sobre programação;<br>
+Colocar jogos, desafios, e atividades com participação das crianças;<br> 
+Apresentar alguma palestra, filme(breve) ou desenvolver com os pequenos algo interessante, que lhes mostre um pouco sobre o mundo da programação. 
+<br>
+<br>
+Usem a criatividade e aproveitem a atividade!<br> 
+Boa Sorte!<br>
+<br>
+
 
 <h2> Organização das equipes: </h2>
 
@@ -84,6 +97,7 @@ Equipe Agape: Ana Alice, Kayron, Lázaro.
   </tr>
 
   <tr>
+    <td>5</td>
     <td>Elaborar site para a oficina contendo: 
     <ul>
       <li> página inicial com apresentação da oficina, da logo do evento, da instituição senai.</li>
@@ -95,5 +109,28 @@ Equipe Agape: Ana Alice, Kayron, Lázaro.
     </td>
     <td> 08 de agosto</td>
     <td>Lideres da turma</td>
+  </tr>
+  <tr>
+    <td> 6 </td>
+    <td> Elaborar página web (html + css) com descrição de cada tópico da oficina</td>
+    <td> 8 de agosto </td>
+    <td> Cada equipe elaborar sua página web</td>
+   <td> Entregar aos líderes da turma </td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Elaborar lista de materiais necessários (exemplo:computador, data show, balão, cartaz, chocolate (etc))</td>
+    <td>08 de agosto</td>
+    <td> Cada equipe elaborar o seu (lideres fazer para a estrutura geral da oficina)</td>
+    <td> Lideres devem escrever a lista de materiias necessarios no github (no arquivo read-me) do repositório criado pro projeto.</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <tr> 
+      <td>Elaborar cronograma de execução das tarefas necessárias (vocês terão todas as sextas-feiras até o dia da oficina para elaborar tarefas associadas a ela) Nos segundos-horários. Se organizarem de acordo com os tópicos de cada equipe.</td>
+    <td> 08 de agosto></td>
+    <td> Cada equipe elaborar seu cronograma</td>
+    <td>Entregar para os líderes que devem anexar no github (no arquivo read-me) do repositório da oficina</td></tr>
+    
   </tr>
 </table>
