@@ -34,5 +34,5 @@ Equipe Agape: Ana Alice, Kayron, Lázaro.
 
 
 <br>
-# Passo a Passo
+<bold>Passo a Passo:</bold>
 <br>
