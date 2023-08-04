@@ -1,10 +1,13 @@
 # Dia das Crianças Senai
-ELABORANDO UMA OFICINA DE PROGRAMAÇÃO PARA CRIANÇAS!
-Olá, 
+ELABORANDO UMA OFICINA DE PROGRAMAÇÃO PARA CRIANÇAS!<br>
+<hr>
+Olá,<br> 
 nesta atividade, você e sua turma será convidados a elaborarem juntos a 
-
+<br>
+<hr>
 1º Oficina de Programação para Crianças do SENAI CEPT BALSAS!
-
+<hr>
+<br>
 Organização das equipes:
 
 <ul>
@@ -28,3 +31,8 @@ Equipe Gama: Maria Eduarda, Bruno Sousa, Kenia.
 Equipe Agape: Ana Alice, Kayron, Lázaro.
 </li>
 </ul>
+
+
+<br>
+#Passo a Passo
+<br>
